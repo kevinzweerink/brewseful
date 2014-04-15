@@ -250,14 +250,14 @@ h2 {
 }
 
 .bg {
-	-webkit-animation: bgAnimation 15s 2s 1 linear,
-					   bgReturn 0.3s 17s 1 ease-in;
-	-moz-animation:    bgAnimation 15s 2s 1 linear,
-					   bgReturn 0.3s 17s 1 ease-in;
-	-o-animation:      bgAnimation 15s 2s 1 linear,
-					   bgReturn 0.3s 17s 1 ease-in;
-	animation:         bgAnimation 15s 2s 1 linear,
-					   bgReturn 0.3s 17s 1 ease-in;
+	-webkit-animation: bgAnimation 15s 3s 1 linear,
+					   bgReturn 0.3s 18s 1 ease-in;
+	-moz-animation:    bgAnimation 15s 3s 1 linear,
+					   bgReturn 0.3s 18s 1 ease-in;
+	-o-animation:      bgAnimation 15s 3s 1 linear,
+					   bgReturn 0.3s 18s 1 ease-in;
+	animation:         bgAnimation 15s 3s 1 linear,
+					   bgReturn 0.3s 18s 1 ease-in;
 	position: absolute;
 	top: 100%;
 	left: 0%;
