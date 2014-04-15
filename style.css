@@ -223,10 +223,10 @@ body {
 }
 
 img {
-	-webkit-animation: pressLogo 1s 0 1 linear;
-	-moz-animation: pressLogo 1s 0 1 linear;
-	-o-animation:pressLogo 1s 0 1 linear;
-	animation: pressLogo 1s 0 1 linear;
+	-webkit-animation: pressLogo 1s 2s 1 linear;
+	-moz-animation: pressLogo 1s 2s 1 linear;
+	-o-animation:pressLogo 1s 2s 1 linear;
+	animation: pressLogo 1s 2s 1 linear;
 
 	width: 15%;
 	margin-top: 8em;
@@ -250,14 +250,14 @@ h2 {
 }
 
 .bg {
-	-webkit-animation: bgAnimation 15s 1s 1 linear,
-					   bgReturn 0.3s 16s 1 ease-in;
-	-moz-animation:    bgAnimation 15s 1s 1 linear,
-					   bgReturn 0.3s 16s 1 ease-in;
-	-o-animation:      bgAnimation 15s 1s 1 linear,
-					   bgReturn 0.3s 16s 1 ease-in;
-	animation:         bgAnimation 15s 1s 1 linear,
-					   bgReturn 0.3s 16s 1 ease-in;
+	-webkit-animation: bgAnimation 15s 2s 1 linear,
+					   bgReturn 0.3s 17s 1 ease-in;
+	-moz-animation:    bgAnimation 15s 2s 1 linear,
+					   bgReturn 0.3s 17s 1 ease-in;
+	-o-animation:      bgAnimation 15s 2s 1 linear,
+					   bgReturn 0.3s 17s 1 ease-in;
+	animation:         bgAnimation 15s 2s 1 linear,
+					   bgReturn 0.3s 17s 1 ease-in;
 	position: absolute;
 	top: 100%;
 	left: 0%;
