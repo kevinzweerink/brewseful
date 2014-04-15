@@ -265,3 +265,15 @@ h2 {
 	height: 0%;
 	background: #5dc561;
 }
+
+@media screen and (max-width: 1024px) {
+	img {
+		width: 30%;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	img {
+		width: 40%;
+	}
+}
