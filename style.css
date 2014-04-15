@@ -1,0 +1,16 @@
+body {
+	background: #1d2026;
+	font-family: "Avenir", "Nunito", Verdana, Sans-serif;
+	color: #fff;
+	text-align: center;
+}
+
+img {
+	width: 25%;
+	margin-top: 2em;
+}
+
+h1, h2 {
+	font-weight: 300;
+	opacity: 0.7;
+}
